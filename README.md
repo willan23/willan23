@@ -1,9 +1,9 @@
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&pause=1000&color=00FF99&center=true&vCenter=true&width=600&lines=Hi+there%2C+I'm+Willan+%F0%9F%91%8B;I+build+Distributed+Systems;I+write+Rust%2C+TypeScript%2C+and+AI;I+architect+the+future." alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=30&pause=1200&color=00FFCC&center=true&vCenter=true&width=700&lines=Hi+there%2C+I'm+Willan+%F0%9F%91%8B;Systems+Architect+%26+Deep+Tech+Engineer;Rust+%E2%80%A2+Quantum+Optimization+%E2%80%A2+Autonomous+AI;Building+the+Next-Gen+Distributed+Infrastructure." alt="Typing SVG" />
 </div>
 
 <p align="center">
-  <em>Passionate about Deep Tech, Systems Engineering, and the intersection of AI, Quantum Computing, and Decentralization.</em>
+  <em>Architecting resilient distributed systems, autonomous BDI agent networks, and quantum-inspired mesh protocols.</em>
 </p>
 
 <p align="center">
@@ -17,7 +17,7 @@
     <img src="https://img.shields.io/badge/WebAssembly-654FF0?style=for-the-badge&logo=webassembly&logoColor=white" alt="WASM" />
   </a>
   <a href="https://github.com/willan23">
-    <img src="https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white" alt="K8s" />
+    <img src="https://img.shields.io/badge/Tauri_2.0-FFC131?style=for-the-badge&logo=tauri&logoColor=black" alt="Tauri" />
   </a>
   <a href="https://github.com/willan23">
     <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Linux" />
@@ -26,16 +26,53 @@
 
 ---
 
-### 🚀 What I'm Building
+### 🧬 Core Engineering Focus
 
-- 🦀 **Currently focusing on:** High-performance distributed systems in Rust, zero-trust architectures, and P2P consensus mechanisms.
-- 🧠 **Exploring:** LLMs running locally (llama.cpp/Ollama), Multi-Agent Swarm Intelligence, and Quantum-Inspired Algorithms (QAOA/SQA).
-- 🔐 **Deep diving into:** Post-Quantum Cryptography, Hardware Enclaves (TPM 2.0), eBPF, and CRDTs for distributed state.
-- 💡 **Philosophy:** Build software that is living, self-healing, and scales organically. No mocks, just deep tech.
+```typescript
+const engineer = {
+  name: "Willan",
+  role: "Systems Architect & Deep Tech Specialist",
+  stack: ["Rust", "TypeScript", "Tauri 2.0", "WASM", "Tokio", "eBPF"],
+  domains: {
+    distributedSystems: ["P2P Mesh Networks", "Sled Embedded DB", "CRDT State Sync"],
+    quantumComputing: ["QAOA QUBO Solvers", "Simulated Quantum Annealing", "OpenQASM 3.0"],
+    autonomousAI: ["BDI Agent Systems", "Ollama LLM Integration", "Swarm Intelligence"],
+    security: ["Post-Quantum Cryptography", "Ed25519 Identities", "Zero-Trust Safeguard"]
+  },
+  status: "Building next-generation distributed operating systems."
+};
+```
 
 ---
 
-### 📊 GitHub Analytics
+### 🌌 Featured Systems & Research
+
+<table width="100%">
+  <tr>
+    <td width="50%" valign="top">
+      <h4>⚡ Autonomous BDI Agent Swarms</h4>
+      <p>Multi-agent frameworks implementing Belief-Desire-Intention models with local LLM integration and dynamic intent dispatching.</p>
+    </td>
+    <td width="50%" valign="top">
+      <h4>🌀 Quantum-Inspired Mesh Optimization</h4>
+      <p>Combinatorial graph partition solvers converting network topology routing to Ising Hamiltonians solved via pure Rust QAOA algorithms.</p>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <h4>🔐 Zero-Trust Self-Healing Safeguards</h4>
+      <p>Automated anomaly detection networks enforcing telemetry health policies and isolating compromised nodes in micro-seconds.</p>
+    </td>
+    <td width="50%" valign="top">
+      <h4>🔒 Homomorphic & Sovereign Cryptography</h4>
+      <p>Paillier FHE (Fully Homomorphic Encryption) state transitions coupled with Ed25519 identity trees and P2P encrypted file vaults.</p>
+    </td>
+  </tr>
+</table>
+
+---
+
+### 📊 GitHub Activity & Analytics
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=willan23&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117" alt="GitHub Stats" width="48%" />
@@ -50,10 +87,9 @@
 
 ---
 
-### 🐍 Contribution Graph
+### 🐍 Autonomous Contribution Graph
 
 <div align="center">
-  <!-- The Snake will be generated automatically via GitHub Actions -->
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/willan23/willan23/output/github-contribution-grid-snake-dark.svg">
     <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/willan23/willan23/output/github-contribution-grid-snake.svg">
@@ -62,6 +98,7 @@
 </div>
 
 ---
+
 <div align="center">
-  <p><i>"The future belongs to those who build it."</i></p>
+  <p><i>"The future belongs to those who build sovereign, resilient systems."</i></p>
 </div>
